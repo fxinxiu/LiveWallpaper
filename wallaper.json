@@ -1,7 +1,7 @@
 {
 	"state": 200,
 	"categary": [{
-			"catName": "动态壁纸",
+			"catName": "推荐动态壁纸",
 			"content": [{
 				"name": "花草",
 				"size": "452KB",
@@ -125,7 +125,7 @@
 			}
 			]
 		},{
-			"catName": "星座壁纸",
+			"catName": "星座动态壁纸",
             "content": [{
 				"name": "白羊座",
 				"size": "1.6M",
@@ -236,7 +236,7 @@
 				"previewUrl": "https://raw.githubusercontent.com/Erowin/LiveWallpaper/master/%E6%98%9F%E5%BA%A7%E5%A3%81%E7%BA%B8/12.mp4"
 			}]
 		},{
-			"catName": "萌宠",
+			"catName": "萌宠动态壁纸",
 			"content": [{
 				"name": "小金毛",
 				"size": "0.6M",
@@ -344,7 +344,7 @@
 				"name": "初视安静冰川",
 				"size": "21.1M",
 				"hasImage": false,
-				"Vip":false,
+				"Vip":true,
 				"himageUrl": "http://video.haitundesktop.com/image/2017/10/7/1508140837747_560526.jpg",
 				"vimageUrl": "http://video.haitundesktop.com/image/2017/10/7/1508140837747_560526.jpg",
 				"fileUrl": "http://video.haitundesktop.com/video/2017/10/7/1508140837747_560526.mp4",
@@ -380,7 +380,7 @@
 				"name": "光速游美国",
 				"size": "7.5M",
 				"hasImage": false,
-				"Vip":false,
+				"Vip":true,
 				"himageUrl": "http://video.haitundesktop.com/image/2017/9/7/1506499204447_500571.jpg",
 				"vimageUrl": "http://video.haitundesktop.com/image/2017/9/7/1506499204447_500571.jpg",
 				"fileUrl": "http://video.haitundesktop.com/video/2017/9/7/1506499204447_500571.mp4",
@@ -398,7 +398,7 @@
 				"name": "旅游航拍",
 				"size": "6.4M",
 				"hasImage": false,
-				"Vip":false,
+				"Vip":true,
 				"himageUrl": "http://video.haitundesktop.com/image/2017/9/7/1506409207327_510804.jpg",
 				"vimageUrl": "http://video.haitundesktop.com/image/2017/9/7/1506409207327_510804.jpg",
 				"fileUrl": "http://video.haitundesktop.com/video/2017/9/7/1506409207327_510804.mp4",
