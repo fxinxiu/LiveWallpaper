@@ -3,69 +3,45 @@
 	"categary": [{
 			"catName": "动物",
 			"content": [{
-				"name": "炫酷科技",
-				"size": "3.1M",
-				"hasVoice": true,
-				"himageUrl": "/image/2017/8/2/1502606562302_085052.jpg",
-				"vimageUrl": "/image/2017/8/2/1502606562302_085052.jpg",
-				"fileUrl": "/video/2017/8/2/1502606562302_085052.mp4",
-				"previewUrl": "/stream/2017/8/2/1502606562302_085052.m3u8"
+				"name": "小兔子",
+				"size": "1.8M",
+				"hasImage": true,
+				"himageUrl": "https://raw.githubusercontent.com/Erowin/LiveWallpaper/master/%E5%8A%A8%E7%89%A9/%E5%B0%8F%E5%85%94%E5%AD%90.png",
+				"vimageUrl": "https://raw.githubusercontent.com/Erowin/LiveWallpaper/master/%E5%8A%A8%E7%89%A9/%E5%B0%8F%E5%85%94%E5%AD%90.png",
+				"fileUrl": "https://raw.githubusercontent.com/Erowin/LiveWallpaper/master/%E5%8A%A8%E7%89%A9/%E5%B0%8F%E5%85%94%E5%AD%90.png",
+				"previewUrl": "https://raw.githubusercontent.com/Erowin/LiveWallpaper/master/%E5%8A%A8%E7%89%A9/%E5%B0%8F%E5%85%94%E5%AD%90.png"
 			}, {
-				"name": "雪中的电车",
-				"size": "11.0M",
-				"hasVoice": true,
-				"himageUrl": "/image/2017/8/9/1502608432409_323792.jpg",
-				"vimageUrl": "/image/2017/8/9/1502608432409_323792.jpg",
-				"fileUrl": "/video/2017/8/9/1502608432409_323792.mp4",
-				"previewUrl": "/stream/2017/8/9/1502608432409_323792.m3u8"
+				"name": "木马",
+				"size": "1.4M",
+				"hasImage": true,
+				"himageUrl": "https://raw.githubusercontent.com/Erowin/LiveWallpaper/master/%E5%8A%A8%E7%89%A9/%E6%9C%A8%E9%A9%AC.png",
+				"vimageUrl": "https://raw.githubusercontent.com/Erowin/LiveWallpaper/master/%E5%8A%A8%E7%89%A9/%E6%9C%A8%E9%A9%AC.png",
+				"fileUrl": "https://raw.githubusercontent.com/Erowin/LiveWallpaper/master/%E5%8A%A8%E7%89%A9/%E6%9C%A8%E9%A9%AC.png",
+				"previewUrl": "https://raw.githubusercontent.com/Erowin/LiveWallpaper/master/%E5%8A%A8%E7%89%A9/%E6%9C%A8%E9%A9%AC.png"
 			},{
-				"name": "炫酷科技",
-				"size": "3.1M",
-				"hasVoice": true,
-				"himageUrl": "/image/2017/8/2/1502606562302_085052.jpg",
-				"vimageUrl": "/image/2017/8/2/1502606562302_085052.jpg",
-				"fileUrl": "/video/2017/8/2/1502606562302_085052.mp4",
-				"previewUrl": "/stream/2017/8/2/1502606562302_085052.m3u8"
+				"name": "小老鼠",
+				"size": "1.5M",
+				"hasImage": true,
+				"himageUrl": "https://raw.githubusercontent.com/Erowin/LiveWallpaper/master/%E5%8A%A8%E7%89%A9/%E5%B0%8F%E8%80%81%E9%BC%A0.png",
+				"vimageUrl": "https://raw.githubusercontent.com/Erowin/LiveWallpaper/master/%E5%8A%A8%E7%89%A9/%E5%B0%8F%E8%80%81%E9%BC%A0.png",
+				"fileUrl": "https://raw.githubusercontent.com/Erowin/LiveWallpaper/master/%E5%8A%A8%E7%89%A9/%E5%B0%8F%E8%80%81%E9%BC%A0.png",
+				"previewUrl": "https://raw.githubusercontent.com/Erowin/LiveWallpaper/master/%E5%8A%A8%E7%89%A9/%E5%B0%8F%E8%80%81%E9%BC%A0.png"
 			}, {
-				"name": "雪中的电车",
-				"size": "11.0M",
-				"hasVoice": true,
-				"himageUrl": "/image/2017/8/9/1502608432409_323792.jpg",
-				"vimageUrl": "/image/2017/8/9/1502608432409_323792.jpg",
-				"fileUrl": "/video/2017/8/9/1502608432409_323792.mp4",
-				"previewUrl": "/stream/2017/8/9/1502608432409_323792.m3u8"
+				"name": "小狮子",
+				"size": "1.6M",
+				"hasImage": true,
+				"himageUrl": "https://raw.githubusercontent.com/Erowin/LiveWallpaper/master/%E5%8A%A8%E7%89%A9/%E5%B0%8F%E7%8B%AE%E5%AD%90.png",
+				"vimageUrl": "https://raw.githubusercontent.com/Erowin/LiveWallpaper/master/%E5%8A%A8%E7%89%A9/%E5%B0%8F%E7%8B%AE%E5%AD%90.png",
+				"fileUrl": "https://raw.githubusercontent.com/Erowin/LiveWallpaper/master/%E5%8A%A8%E7%89%A9/%E5%B0%8F%E7%8B%AE%E5%AD%90.png",
+				"previewUrl": "https://raw.githubusercontent.com/Erowin/LiveWallpaper/master/%E5%8A%A8%E7%89%A9/%E5%B0%8F%E7%8B%AE%E5%AD%90.png"
 			},{
-				"name": "炫酷科技",
-				"size": "3.1M",
-				"hasVoice": true,
-				"himageUrl": "/image/2017/8/2/1502606562302_085052.jpg",
-				"vimageUrl": "/image/2017/8/2/1502606562302_085052.jpg",
-				"fileUrl": "/video/2017/8/2/1502606562302_085052.mp4",
-				"previewUrl": "/stream/2017/8/2/1502606562302_085052.m3u8"
-			}, {
-				"name": "雪中的电车",
-				"size": "11.0M",
-				"hasVoice": true,
-				"himageUrl": "/image/2017/8/9/1502608432409_323792.jpg",
-				"vimageUrl": "/image/2017/8/9/1502608432409_323792.jpg",
-				"fileUrl": "/video/2017/8/9/1502608432409_323792.mp4",
-				"previewUrl": "/stream/2017/8/9/1502608432409_323792.m3u8"
-			},{
-				"name": "炫酷科技",
-				"size": "3.1M",
-				"hasVoice": true,
-				"himageUrl": "/image/2017/8/2/1502606562302_085052.jpg",
-				"vimageUrl": "/image/2017/8/2/1502606562302_085052.jpg",
-				"fileUrl": "/video/2017/8/2/1502606562302_085052.mp4",
-				"previewUrl": "/stream/2017/8/2/1502606562302_085052.m3u8"
-			}, {
-				"name": "雪中的电车",
-				"size": "11.0M",
-				"hasVoice": true,
-				"himageUrl": "/image/2017/8/9/1502608432409_323792.jpg",
-				"vimageUrl": "/image/2017/8/9/1502608432409_323792.jpg",
-				"fileUrl": "/video/2017/8/9/1502608432409_323792.mp4",
-				"previewUrl": "/stream/2017/8/9/1502608432409_323792.m3u8"
+				"name": "小熊",
+				"size": "1.6M",
+				"hasImage": false,
+				"himageUrl": "https://raw.githubusercontent.com/Erowin/LiveWallpaper/master/%E5%8A%A8%E7%89%A9/xiaoxiong.png",
+				"vimageUrl": "https://raw.githubusercontent.com/Erowin/LiveWallpaper/master/%E5%8A%A8%E7%89%A9/xiaoxiong.png",
+				"fileUrl": "https://raw.githubusercontent.com/Erowin/LiveWallpaper/master/%E5%8A%A8%E7%89%A9/xiaoxiong.png",
+				"previewUrl": "https://raw.githubusercontent.com/Erowin/LiveWallpaper/master/%E5%8A%A8%E7%89%A9/xiaoxiong.png"
 			}]
 		},
 		{
@@ -73,19 +49,19 @@
 			"content": [{
 				"name": "炫酷科技",
 				"size": "3.1M",
-				"hasVoice": true,
-				"himageUrl": "/image/2017/8/2/1502606562302_085052.jpg",
-				"vimageUrl": "/image/2017/8/2/1502606562302_085052.jpg",
-				"fileUrl": "/video/2017/8/2/1502606562302_085052.mp4",
-				"previewUrl": "/stream/2017/8/2/1502606562302_085052.m3u8"
+				"hasImage": false,
+				"himageUrl": "http://video.haitundesktop.com/image/2017/8/2/1502606562302_085052.jpg",
+				"vimageUrl": "http://video.haitundesktop.com/image/2017/8/2/1502606562302_085052.jpg",
+				"fileUrl": "http://video.haitundesktop.com/video/2017/8/2/1502606562302_085052.mp4",
+				"previewUrl": "http://video.haitundesktop.com/stream/2017/8/2/1502606562302_085052.m3u8"
 			}, {
 				"name": "雪中的电车",
 				"size": "11.0M",
-				"hasVoice": true,
-				"himageUrl": "/image/2017/8/9/1502608432409_323792.jpg",
-				"vimageUrl": "/image/2017/8/9/1502608432409_323792.jpg",
-				"fileUrl": "/video/2017/8/9/1502608432409_323792.mp4",
-				"previewUrl": "/stream/2017/8/9/1502608432409_323792.m3u8"
+				"hasImage": false,
+				"himageUrl": "http://video.haitundesktop.com/image/2017/8/9/1502608432409_323792.jpg",
+				"vimageUrl": "http://video.haitundesktop.com/image/2017/8/9/1502608432409_323792.jpg",
+				"fileUrl": "http://video.haitundesktop.com/video/2017/8/9/1502608432409_323792.mp4",
+				"previewUrl": "http://video.haitundesktop.com/stream/2017/8/9/1502608432409_323792.m3u8"
 			}]
 		}
 	]
