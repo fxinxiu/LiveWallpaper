@@ -236,6 +236,177 @@
 				"previewUrl": "https://raw.githubusercontent.com/Erowin/LiveWallpaper/master/%E6%98%9F%E5%BA%A7%E5%A3%81%E7%BA%B8/12.mp4"
 			}]
 		},{
+			"catName": "萌宠",
+			"content": [{
+				"name": "小金毛",
+				"size": "0.6M",
+				"hasImage": false,
+				"Vip":false,
+				"himageUrl": "http://video.haitundesktop.com/image/2017/9/3/1506664801023_504398.jpg",
+				"vimageUrl": "http://video.haitundesktop.com/image/2017/9/3/1506664801023_504398.jpg",
+				"fileUrl": "http://video.haitundesktop.com/video/2017/9/3/1506664801023_504398.mp4",
+				"previewUrl": "http://video.haitundesktop.com/stream/2017/9/3/1506664801023_504398.m3u8"
+			}, {
+				"name": "有木有萌到你",
+				"size": "4.1M",
+				"hasImage": false,
+				"Vip":false,
+				"himageUrl": "http://video.haitundesktop.com/image/2017/9/4/1504684800714_224131.jpg",
+				"vimageUrl": "http://video.haitundesktop.com/image/2017/9/4/1504684800714_224131.jpg",
+				"fileUrl": "http://video.haitundesktop.com/video/2017/9/4/1504684800714_224131.mp4",
+				"previewUrl": "http://video.haitundesktop.com/stream/2017/9/4/1504684800714_224131.m3u8"
+			},{
+				"name": "啦啦啦",
+				"size": "5.1M",
+				"hasImage": false,
+				"Vip":false,
+				"himageUrl": "http://video.haitundesktop.com/image/2017/8/9/1503910802709_218713.jpg",
+				"vimageUrl": "http://video.haitundesktop.com/image/2017/8/9/1503910802709_218713.jpg",
+				"fileUrl": "http://video.haitundesktop.com/video/2017/8/9/1503910802709_218713.mp4",
+				"previewUrl": "http://video.haitundesktop.com/stream/2017/8/9/1503910802709_218713.m3u8"
+			},{
+				"name": "萌宠小猪猪-拔河",
+				"size": "2.8M",
+				"hasImage": false,
+				"Vip":false,
+				"himageUrl": "http://video.haitundesktop.com/image/2017/8/6/1502863207746_367140.jpg",
+				"vimageUrl": "http://video.haitundesktop.com/image/2017/8/6/1502863207746_367140.jpg",
+				"fileUrl": "http://video.haitundesktop.com/video/2017/8/6/1502863207746_367140.mp4",
+				"previewUrl": "http://video.haitundesktop.com/stream/2017/8/6/1502863207746_367140.m3u8"
+			},{
+				"name": "猫咪",
+				"size": "4.7M",
+				"hasImage": false,
+				"Vip":false,
+				"himageUrl": "http://video.haitundesktop.com/image/2017/8/9/1502722803439_362528.jpg",
+				"vimageUrl": "http://video.haitundesktop.com/image/2017/8/9/1502722803439_362528.jpg",
+				"fileUrl": "http://video.haitundesktop.com/video/2017/8/9/1502722803439_362528.mp4",
+				"previewUrl": "http://video.haitundesktop.com/stream/2017/8/9/1502722803439_362528.m3u8"
+			},{
+				"name": "街头霸王",
+				"size": "3.1M",
+				"hasImage": false,
+				"Vip":false,
+				"himageUrl": "http://video.haitundesktop.com/image/2017/9/0/1506499206630_500503.jpg",
+				"vimageUrl": "http://video.haitundesktop.com/image/2017/9/0/1506499206630_500503.jpg",
+				"fileUrl": "http://video.haitundesktop.com/video/2017/9/0/1506499206630_500503.mp4",
+				"previewUrl": "http://video.haitundesktop.com/stream/2017/9/0/1506499206630_500503.m3u8"
+			},{
+				"name": "软萌可爱兔子。",
+				"size": "15.2M",
+				"hasImage": false,
+				"Vip":false,
+				"himageUrl": "http://video.haitundesktop.com/image/2017/11/9/1510041603829_435716.jpg",
+				"vimageUrl": "http://video.haitundesktop.com/image/2017/11/9/1510041603829_435716.jpg",
+				"fileUrl": "http://video.haitundesktop.com/video/2017/11/9/1510041603829_435716.mp4",
+				"previewUrl": "http://video.haitundesktop.com/stream/2017/11/9/1510041603829_435716.m3u8"
+			},{
+				"name": "熊猫",
+				"size": "3.1M",
+				"hasImage": false,
+				"Vip":false,
+				"himageUrl": "http://video.haitundesktop.com/image/2018/1/6/1515063602476_606277.jpg",
+				"vimageUrl": "http://video.haitundesktop.com/image/2018/1/6/1515063602476_606277.jpg",
+				"fileUrl": "http://video.haitundesktop.com/video/2018/1/6/1515063602476_606277.mp4",
+				"previewUrl": "http://video.haitundesktop.com/stream/2018/1/6/1515063602476_606277.m3u8"
+			}]
+		},{
+			"catName": "风景动态壁纸",
+			 "content": [
+			 {
+				"name": "水岸",
+				"size": "8.6M",
+				"hasImage": false,
+				"Vip":false,
+				"himageUrl": "http://video.haitundesktop.com/image/2017/10/5/1508140803965_560679.jpg",
+				"vimageUrl": "http://video.haitundesktop.com/image/2017/10/5/1508140803965_560679.jpg",
+				"fileUrl": "http://video.haitundesktop.com/video/2017/10/5/1508140803965_560679.mp4",
+				"previewUrl": "http://video.haitundesktop.com/stream/2017/10/5/1508140803965_560679.m3u8"
+			},{
+				"name": "湖岸风光",
+				"size": "7.4M",
+				"hasImage": false,
+				"Vip":false,
+				"himageUrl": "http://video.haitundesktop.com/image/2017/10/1/1508140800811_563142.jpg",
+				"vimageUrl": "http://video.haitundesktop.com/image/2017/10/1/1508140800811_563142.jpg",
+				"fileUrl": "http://video.haitundesktop.com/video/2017/10/1/1508140800811_563142.mp4",
+				"previewUrl": "http://video.haitundesktop.com/stream/2017/10/1/1508140800811_563142.m3u8"
+			},{
+				"name": "树和椅子 艺术风",
+				"size": "3.6M",
+				"hasImage": false,
+				"Vip":false,
+				"himageUrl": "http://video.haitundesktop.com/image/2017/10/3/1508137204263_577609.jpg",
+				"vimageUrl": "http://video.haitundesktop.com/image/2017/10/3/1508137204263_577609.jpg",
+				"fileUrl": "http://video.haitundesktop.com/video/2017/10/3/1508137204263_577609.mp4",
+				"previewUrl": "http://video.haitundesktop.com/stream/2017/10/3/1508137204263_577609.m3u8"
+			},{
+				"name": "初视安静冰川",
+				"size": "21.1M",
+				"hasImage": false,
+				"Vip":false,
+				"himageUrl": "http://video.haitundesktop.com/image/2017/10/7/1508140837747_560526.jpg",
+				"vimageUrl": "http://video.haitundesktop.com/image/2017/10/7/1508140837747_560526.jpg",
+				"fileUrl": "http://video.haitundesktop.com/video/2017/10/7/1508140837747_560526.mp4",
+				"previewUrl": "http://video.haitundesktop.com/stream/2017/10/7/1508140837747_560526.m3u8"
+			},{
+				"name": "高清风景循环",
+				"size": "5.3M",
+				"hasImage": false,
+				"Vip":false,
+				"himageUrl": "http://video.haitundesktop.com/image/2017/9/0/1505980800880_299432.jpg",
+				"vimageUrl": "http://video.haitundesktop.com/image/2017/9/0/1505980800880_299432.jpg",
+				"fileUrl": "http://video.haitundesktop.com/video/2017/9/0/1505980800880_299432.mp4",
+				"previewUrl": "http://video.haitundesktop.com/stream/2017/9/0/1505980800880_299432.m3u8"
+			},{
+				"name": "美丽如画！",
+				"size": "1.8M",
+				"hasImage": false,
+				"Vip":false,
+				"himageUrl": "http://video.haitundesktop.com/image/2017/9/4/1505905200854_296350.jpg",
+				"vimageUrl": "http://video.haitundesktop.com/image/2017/9/4/1505905200854_296350.jpg",
+				"fileUrl": "http://video.haitundesktop.com/video/2017/9/4/1505905200854_296350.mp4",
+				"previewUrl": "http://video.haitundesktop.com/stream/2017/9/4/1505905200854_296350.m3u8"
+			},{
+				"name": "水屋体验",
+				"size": "7.0M",
+				"hasImage": false,
+				"Vip":false,
+				"himageUrl": "http://video.haitundesktop.com/image/2017/9/6/1506502800996_500442.jpg",
+				"vimageUrl": "http://video.haitundesktop.com/image/2017/9/6/1506502800996_500442.jpg",
+				"fileUrl": "http://video.haitundesktop.com/video/2017/9/6/1506502800996_500442.mp4",
+				"previewUrl": "http://video.haitundesktop.com/stream/2017/9/6/1506502800996_500442.m3u8"
+			},{
+				"name": "光速游美国",
+				"size": "7.5M",
+				"hasImage": false,
+				"Vip":false,
+				"himageUrl": "http://video.haitundesktop.com/image/2017/9/7/1506499204447_500571.jpg",
+				"vimageUrl": "http://video.haitundesktop.com/image/2017/9/7/1506499204447_500571.jpg",
+				"fileUrl": "http://video.haitundesktop.com/video/2017/9/7/1506499204447_500571.mp4",
+				"previewUrl": "http://video.haitundesktop.com/stream/2017/9/7/1506499204447_500571.m3u8"
+			},{
+				"name": "渔舟唱晚",
+				"size": "3.6M",
+				"hasImage": false,
+				"Vip":false,
+				"himageUrl": "http://video.haitundesktop.com/image/2017/9/1/1506499203061_500568.jpg",
+				"vimageUrl": "http://video.haitundesktop.com/image/2017/9/1/1506499203061_500568.jpg",
+				"fileUrl": "http://video.haitundesktop.com/video/2017/9/1/1506499203061_500568.mp4",
+				"previewUrl": "http://video.haitundesktop.com/stream/2017/9/1/1506499203061_500568.m3u8"
+			},{
+				"name": "旅游航拍",
+				"size": "6.4M",
+				"hasImage": false,
+				"Vip":false,
+				"himageUrl": "http://video.haitundesktop.com/image/2017/9/7/1506409207327_510804.jpg",
+				"vimageUrl": "http://video.haitundesktop.com/image/2017/9/7/1506409207327_510804.jpg",
+				"fileUrl": "http://video.haitundesktop.com/video/2017/9/7/1506409207327_510804.mp4",
+				"previewUrl": "http://video.haitundesktop.com/stream/2017/9/7/1506409207327_510804.m3u8"
+			} ]
+		}
+
+		,{
 			"catName": "情侣壁纸",
             "content": [{
 				"name": "厨房",
@@ -770,28 +941,7 @@
 				"fileUrl": "https://github.com/Erowin/LiveWallpaper/blob/master/%E5%8A%A8%E7%89%A9/%E7%BE%8A.jpg?raw=true",
 				"previewUrl": "https://github.com/Erowin/LiveWallpaper/blob/master/%E5%8A%A8%E7%89%A9/%E7%BE%8A.jpg?raw=true"
 			}]
-		},
-		{
-			"catName": "风景",
-			"content": [{
-				"name": "炫酷科技",
-				"size": "3.1M",
-				"hasImage": false,
-				"Vip":false,
-				"himageUrl": "http://video.haitundesktop.com/image/2017/8/2/1502606562302_085052.jpg",
-				"vimageUrl": "http://video.haitundesktop.com/image/2017/8/2/1502606562302_085052.jpg",
-				"fileUrl": "http://video.haitundesktop.com/video/2017/8/2/1502606562302_085052.mp4",
-				"previewUrl": "http://video.haitundesktop.com/stream/2017/8/2/1502606562302_085052.m3u8"
-			}, {
-				"name": "雪中的电车",
-				"size": "11.0M",
-				"hasImage": false,
-				"Vip":false,
-				"himageUrl": "http://video.haitundesktop.com/image/2017/8/9/1502608432409_323792.jpg",
-				"vimageUrl": "http://video.haitundesktop.com/image/2017/8/9/1502608432409_323792.jpg",
-				"fileUrl": "http://video.haitundesktop.com/video/2017/8/9/1502608432409_323792.mp4",
-				"previewUrl": "http://video.haitundesktop.com/stream/2017/8/9/1502608432409_323792.m3u8"
-			}]
 		}
+		
 	]
 }
