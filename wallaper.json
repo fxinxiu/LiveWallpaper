@@ -238,6 +238,24 @@
 		},{
 			"catName": "萌宠动态壁纸",
 			"content": [{
+				"name": "龙",
+				"size": "4.5M",
+				"hasImage": false,
+				"Vip":false,
+				"himageUrl": "http://video.haitundesktop.com/image/2017/12/8/1512806405428_492017.jpg",
+				"vimageUrl": "http://video.haitundesktop.com/image/2017/12/8/1512806405428_492017.jpg",
+				"fileUrl": "http://video.haitundesktop.com/video/2017/12/8/1512806405428_492017.mp4",
+				"previewUrl": "http://video.haitundesktop.com/stream/2017/12/8/1512806405428_492017.m3u8"
+			},{
+				"name": "乌龟岛",
+				"size": "2.1M",
+				"hasImage": false,
+				"Vip":false,
+				"himageUrl": "http://video.haitundesktop.com/image/2017/12/3/1513245604343_482352.jpg",
+				"vimageUrl": "http://video.haitundesktop.com/image/2017/12/3/1513245604343_482352.jpg",
+				"fileUrl": "http://video.haitundesktop.com/video/2017/12/3/1513245604343_482352.mp4",
+				"previewUrl": "http://video.haitundesktop.com/stream/2017/12/3/1513245604343_482352.m3u8"
+			},{
 				"name": "麋鹿",
 				"size": "1.1M",
 				"hasImage": false,
@@ -421,6 +439,24 @@
 				"vimageUrl": "http://video.haitundesktop.com/image/2017/9/7/1506409207327_510804.jpg",
 				"fileUrl": "http://video.haitundesktop.com/video/2017/9/7/1506409207327_510804.mp4",
 				"previewUrl": "http://video.haitundesktop.com/stream/2017/9/7/1506409207327_510804.m3u8"
+			},{
+				"name": "视觉震撼",
+				"size": "2.2M",
+				"hasImage": false,
+				"Vip":true,
+				"himageUrl": "http://video.haitundesktop.com/image/2018/1/3/1517148001863_968123.jpg",
+				"vimageUrl": "http://video.haitundesktop.com/image/2018/1/3/1517148001863_968123.jpg",
+				"fileUrl": "http://video.haitundesktop.com/video/2018/1/3/1517148001863_968123.mp4",
+				"previewUrl": "http://video.haitundesktop.com/stream/2018/1/3/1517148001863_968123.m3u8"
+			},{
+				"name": "遥望星空",
+				"size": "1.0M",
+				"hasImage": false,
+				"Vip":true,
+				"himageUrl": "http://video.haitundesktop.com/image/2018/1/6/1515060004846_605499.jpg",
+				"vimageUrl": "http://video.haitundesktop.com/image/2018/1/6/1515060004846_605499.jpg",
+				"fileUrl": "http://video.haitundesktop.com/video/2018/1/6/1515060004846_605499.mp4",
+				"previewUrl": "http://video.haitundesktop.com/stream/2018/1/6/1515060004846_605499.m3u8"
 			} ]
 		}
 
