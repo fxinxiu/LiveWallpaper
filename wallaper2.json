@@ -3,6 +3,33 @@
 	"categary": [{
 			"catName": "风景动态壁纸",
 			"content": [ {
+				"name": "高清风景循环",
+				"size": "5.3M",
+				"hasImage": false,
+				"Vip": false,
+				"himageUrl": "http://video.haitundesktop.com/image/2017/9/0/1505980800880_299432.jpg",
+				"vimageUrl": "http://video.haitundesktop.com/image/2017/9/0/1505980800880_299432.jpg",
+				"fileUrl": "http://video.haitundesktop.com/video/2017/9/0/1505980800880_299432.mp4",
+				"previewUrl": "http://video.haitundesktop.com/stream/2017/9/0/1505980800880_299432.m3u8"
+			}, {
+				"name": "美丽如画！",
+				"size": "1.8M",
+				"hasImage": false,
+				"Vip": true,
+				"himageUrl": "http://video.haitundesktop.com/image/2017/9/4/1505905200854_296350.jpg",
+				"vimageUrl": "http://video.haitundesktop.com/image/2017/9/4/1505905200854_296350.jpg",
+				"fileUrl": "http://video.haitundesktop.com/video/2017/9/4/1505905200854_296350.mp4",
+				"previewUrl": "http://video.haitundesktop.com/stream/2017/9/4/1505905200854_296350.m3u8"
+			}, {
+				"name": "水屋体验",
+				"size": "7.0M",
+				"hasImage": false,
+				"Vip": false,
+				"himageUrl": "http://video.haitundesktop.com/image/2017/9/6/1506502800996_500442.jpg",
+				"vimageUrl": "http://video.haitundesktop.com/image/2017/9/6/1506502800996_500442.jpg",
+				"fileUrl": "http://video.haitundesktop.com/video/2017/9/6/1506502800996_500442.mp4",
+				"previewUrl": "http://video.haitundesktop.com/stream/2017/9/6/1506502800996_500442.m3u8"
+			},{
 				"name": "空间",
 				"size": "5.3M",
 				"hasImage": false,
@@ -83,34 +110,7 @@
 				"vimageUrl": "http://video.haitundesktop.com/image/2017/10/7/1508140837747_560526.jpg",
 				"fileUrl": "http://video.haitundesktop.com/video/2017/10/7/1508140837747_560526.mp4",
 				"previewUrl": "http://video.haitundesktop.com/stream/2017/10/7/1508140837747_560526.m3u8"
-			}, {
-				"name": "高清风景循环",
-				"size": "5.3M",
-				"hasImage": false,
-				"Vip": false,
-				"himageUrl": "http://video.haitundesktop.com/image/2017/9/0/1505980800880_299432.jpg",
-				"vimageUrl": "http://video.haitundesktop.com/image/2017/9/0/1505980800880_299432.jpg",
-				"fileUrl": "http://video.haitundesktop.com/video/2017/9/0/1505980800880_299432.mp4",
-				"previewUrl": "http://video.haitundesktop.com/stream/2017/9/0/1505980800880_299432.m3u8"
-			}, {
-				"name": "美丽如画！",
-				"size": "1.8M",
-				"hasImage": false,
-				"Vip": true,
-				"himageUrl": "http://video.haitundesktop.com/image/2017/9/4/1505905200854_296350.jpg",
-				"vimageUrl": "http://video.haitundesktop.com/image/2017/9/4/1505905200854_296350.jpg",
-				"fileUrl": "http://video.haitundesktop.com/video/2017/9/4/1505905200854_296350.mp4",
-				"previewUrl": "http://video.haitundesktop.com/stream/2017/9/4/1505905200854_296350.m3u8"
-			}, {
-				"name": "水屋体验",
-				"size": "7.0M",
-				"hasImage": false,
-				"Vip": false,
-				"himageUrl": "http://video.haitundesktop.com/image/2017/9/6/1506502800996_500442.jpg",
-				"vimageUrl": "http://video.haitundesktop.com/image/2017/9/6/1506502800996_500442.jpg",
-				"fileUrl": "http://video.haitundesktop.com/video/2017/9/6/1506502800996_500442.mp4",
-				"previewUrl": "http://video.haitundesktop.com/stream/2017/9/6/1506502800996_500442.m3u8"
-			}, {
+			},  {
 				"name": "光速游美国",
 				"size": "7.5M",
 				"hasImage": false,
