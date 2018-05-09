@@ -1925,6 +1925,92 @@
 				"fileUrl": "https://github.com/Erowin/LiveWallpaper/blob/master/24%E8%8A%82%E6%B0%94/%E9%9B%A8%E6%B0%B4.jpg?raw=true",
 				"previewUrl": "https://github.com/Erowin/LiveWallpaper/blob/master/24%E8%8A%82%E6%B0%94/%E9%9B%A8%E6%B0%B4.jpg?raw=true"
 			}]
+		},{
+			"catName": "动漫",
+			"content": [
+			{
+				"name": "",
+				"size": "12.0M",
+				"hasImage": false,
+				"Vip":true,
+				"himageUrl": "http://139.129.98.157:9080/image/get/1525060843797_0990259.jpg",
+				"vimageUrl": "http://139.129.98.157:9080/image/get/1525060843797_0990259.jpg",
+				"fileUrl": "http://139.129.98.157:9080/video/download/1525060843797_0990259.mp4",
+				"previewUrl": "http://video.haitundesktop.com/stream/2018/4/7/1525060843797_0990259.m3u8"
+			},{
+				"name": "",
+				"size": "3.1M",
+				"hasImage": false,
+				"Vip":true,
+				"himageUrl": "http://139.129.98.157:9080/image/get/1524819630189_0977929.jpg",
+				"vimageUrl": "http://139.129.98.157:9080/image/get/1524819630189_0977929.jpg",
+				"fileUrl": "http://139.129.98.157:9080/video/download/1524819630189_0977929.mp4",
+				"previewUrl": "http://video.haitundesktop.com/stream/2018/4/9/1524819630189_0977929.m3u8"
+			},{
+				"name": "",
+				"size": "3.6M",
+				"hasImage": false,
+				"Vip":true,
+				"himageUrl": "http://139.129.98.157:9080/image/get/1520848824997_0361227.jpg",
+				"vimageUrl": "http://139.129.98.157:9080/image/get/1520848824997_0361227.jpg",
+				"fileUrl": "http://139.129.98.157:9080/video/download/1520848824997_0361227.mp4",
+				"previewUrl": "http://video.haitundesktop.com/stream/2018/3/7/1520848824997_0361227.m3u8"
+			},{
+				"name": "",
+				"size": "10.4M",
+				"hasImage": false,
+				"Vip":true,
+				"himageUrl": "http://139.129.98.157:9080/image/get/1520370001753_0084972.jpg",
+				"vimageUrl": "http://139.129.98.157:9080/image/get/1520370001753_0084972.jpg",
+				"fileUrl": "http://139.129.98.157:9080/video/download/1520370001753_0084972.mp4",
+				"previewUrl": "http://video.haitundesktop.com/stream/2018/3/3/1520370001753_0084972.m3u8"
+			},{
+				"name": "",
+				"size": "1.3M",
+				"hasImage": false,
+				"Vip":true,
+				"himageUrl": "http://139.129.98.157:9080/image/get/1517630449897_831131.jpg",
+				"vimageUrl": "http://139.129.98.157:9080/image/get/1517630449897_831131.jpg",
+				"fileUrl": "http://139.129.98.157:9080/video/download/1517630449897_831131.mp4",
+				"previewUrl": "http://video.haitundesktop.com/stream/2018/2/7/1517630449897_831131.m3u8"
+			},{
+				"name": "",
+				"size": "2.1M",
+				"hasImage": false,
+				"Vip":true,
+				"himageUrl": "http://139.129.98.157:9080/image/get/1512831600868_494900.jpg",
+				"vimageUrl": "http://139.129.98.157:9080/image/get/1512831600868_494900.jpg",
+				"fileUrl": "http://139.129.98.157:9080/video/download/1512831600868_494900.mp4",
+				"previewUrl": "http://video.haitundesktop.com/stream/2017/12/8/1512831600868_494900.m3u8"
+			},{
+				"name": "",
+				"size": "2.2M",
+				"hasImage": false,
+				"Vip":true,
+				"himageUrl": "http://139.129.98.157:9080/image/get/1510041633098_437609.jpg",
+				"vimageUrl": "http://139.129.98.157:9080/image/get/1510041633098_437609.jpg",
+				"fileUrl": "http://139.129.98.157:9080/video/download/1510041633098_437609.mp4",
+				"previewUrl": "http://video.haitundesktop.com/stream/2017/11/8/1510041633098_437609.m3u8"
+			},{
+				"name": "",
+				"size": "3.3M",
+				"hasImage": false,
+				"Vip":true,
+				"himageUrl": "http://139.129.98.157:9080/image/get/1502606368983_347730.jpg",
+				"vimageUrl": "http://139.129.98.157:9080/image/get/1502606368983_347730.jpg",
+				"fileUrl": "http://139.129.98.157:9080/video/download/1502606368983_347730.mp4",
+				"previewUrl": "http://video.haitundesktop.com/stream/2017/8/3/1502606368983_347730.m3u8"
+			},{
+				"name": "",
+				"size": "7.3M",
+				"hasImage": false,
+				"Vip":true,
+				"himageUrl": "http://139.129.98.157:9080/image/get/1504753200758_250933.jpg",
+				"vimageUrl": "http://139.129.98.157:9080/image/get/1504753200758_250933.jpg",
+				"fileUrl": "http://139.129.98.157:9080/video/download/1504753200758_250933.mp4",
+				"previewUrl": "http://video.haitundesktop.com/stream/2017/9/8/1504753200758_250933.m3u8"
+			}
+			]
 		}
 	]
 }
